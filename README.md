@@ -1,1 +1,1 @@
-Contains files submitted in Assignment 6 for COL106- Data Structures and Algorithms
+Contains files submitted in assignments for COL106- Data Structures and Algorithms
