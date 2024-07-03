@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-
+//this is a comment for mergin
 public class Othello {
     int turn;
     int winner;
